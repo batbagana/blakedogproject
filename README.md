@@ -1,2 +1,1 @@
-# blakedogproject
-Practice for bootstrap site
+TinDog Starting Files
